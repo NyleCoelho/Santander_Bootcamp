@@ -15,48 +15,12 @@ Este repositório foi criado para armazenar e organizar todos os códigos, exerc
 - `materiais/`: Recursos adicionais e materiais de apoio.
 - `documentação/`: Documentação e guias relacionados ao bootcamp.
 
-## Projetos
-
-### Projeto 1: 
-- **Descrição**:
-- **Tecnologias**: 
-- **Localização**: 
-
-## Atividades
-
-### Atividade 1:
-- **Descrição**: 
-- **Localização**:
-
-## Como Contribuir
-
-1. **Fork o repositório**.
-2. **Clone o fork** para sua máquina local:
-    ```sh
-    git clone https://github.com/seu-usuario/bootcamp-java-santander-dio.git
-    ```
-3. **Crie uma branch** para sua feature ou correção:
-    ```sh
-    git checkout -b minha-feature
-    ```
-4. **Commit suas alterações**:
-    ```sh
-    git commit -m 'Minha nova feature'
-    ```
-5. **Push para a branch**:
-    ```sh
-    git push origin minha-feature
-    ```
-6. **Abra um Pull Request**.
-
 ## Contato
 
 Para dúvidas e sugestões, sinta-se à vontade para entrar em contato:
 
 - **Email**: biancacoelhoo05@gmail.com
 - **LinkedIn**: [Bianca Coelho](https://www.linkedin.com/in/nylecoelho/)
-
----
 
 
 ### Agradecimentos
