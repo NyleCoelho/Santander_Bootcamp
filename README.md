@@ -1,4 +1,4 @@
-![Logo do Projeto](https://github.com/NyleCoelho/Santander_Bootcamp/blob/main/Santander-Bootcamp-2024-Banner.jpg?raw=true)
+![Logo do Projeto](https://github.com/NyleCoelho/Santander_Bootcamp/blob/main/Banner.jpg?raw=true)
 
 # Bootcamp Java Santander - DIO
 
